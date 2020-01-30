@@ -1,3 +1,3 @@
 # Toxic-comment-classification
-An ensemble technique using LSTM  
+Using LSTM and word embedding gLoVe  
 CNN based on a research paper 
